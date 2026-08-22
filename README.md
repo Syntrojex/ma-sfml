@@ -48,3 +48,36 @@ No manual library paths.
 No Stack Overflow archaeology.
 
 ---
+
+## Quick start
+
+    npm install -g ma-sfml
+
+    cd YourProject
+    ma-sfml
+
+Example output:
+
+    ✓ SFML 3.1.0 ready
+    ✓ IDE detected — VS Code
+    ✓ Linking complete
+
+    .vscode/tasks.json
+    .vscode/launch.json
+    .vscode/c_cpp_properties.json
+    src/main.cpp
+
+    Open this folder in VS Code.
+    Build: Ctrl + Shift + B
+    Run: F5
+
+Works with both existing projects and empty folders.
+
+If the folder is empty, `ma-sfml` can offer to scaffold a new SFML project and lets you choose between:
+
+- VS Code
+- Visual Studio Community
+
+You can also provide a custom project name during the setup.
+
+---
