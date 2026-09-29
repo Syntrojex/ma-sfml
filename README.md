@@ -106,6 +106,4 @@ MIT © Muhammad Mustafa Amir
 
 <div align="center">
 
-Built by [Syntrojex](https://github.com/Syntrojex) · Part of [Nethric Technologies](https://github.com/Nethric-Technologies)
-
-</div>
+Built by [Syntrojex](https://github.com/Syntrojex)
